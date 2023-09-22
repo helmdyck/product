@@ -2,15 +2,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@700&display=swap');
 
 html {
-   
-    height: 100%;
     font-size: 10px;
 }
 
 body {
     background-color: hsl(30, 38%, 92%);
     width: 100%;
-    heigth: 100vh;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
